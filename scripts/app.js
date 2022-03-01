@@ -137,3 +137,5 @@ const TodosApp = {
 };
 
 Vue.createApp(TodosApp).mount('#todos-app');
+
+//01/03/21 - Completed!
